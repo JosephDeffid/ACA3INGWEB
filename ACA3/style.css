@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+header img {
+    text-align: center;
+    height: 300px;
+}
+
+footer {
+    text-align: center;
+}
+
+.url {
+    color: chartreuse;
+}
+
+.menu {
+    border-style: dotted;
+    border-color: white;
+}
+
+.title {
+    text-align: center;
+}
+
+hr {
+    background-color: rgb(250, 0, 100);
+}
+
+.price {
+    text-align: right;
+}
+
+.ico {
+    display: block;
+    margin: auto;
+}
+
+.banner2 {
+    height: 300px;
+}
+
+.click {
+    text-align: center;
+}
+
+h5 {
+    color: rgba(144, 0, 55);
+}
